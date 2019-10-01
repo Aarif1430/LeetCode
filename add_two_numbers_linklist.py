@@ -43,4 +43,4 @@ if __name__ == '__main__':
     #n6 = ListNode(4)
     #n4.next = n5
     #n5.next = n6
-    Solution().addTwoNumbers(n1,n4).traverse()
+    Solution().add_two_numbers(n1, n4).traverse()
